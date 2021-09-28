@@ -92,6 +92,7 @@ table{
 td{
   border-top: 2px solid black;
   padding: 10px;
+  text-align: center;
 }
 
 
@@ -101,7 +102,7 @@ td{
   padding: 10px;
   text-transform: uppercase;
   background-color: #7e0825;
-
+  vertical-align: middle;
 }
 
 .rowhead{
